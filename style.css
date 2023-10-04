@@ -26,6 +26,7 @@ body {
 }
 #qr-code {
     margin-top: 20px;
+    box-sizing: 20px;
     display: flex;
     justify-content: center;
 }
